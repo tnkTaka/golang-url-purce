@@ -1,1 +1,1 @@
-# golang-url-purce
+# golangでURLをパースするサンプル
